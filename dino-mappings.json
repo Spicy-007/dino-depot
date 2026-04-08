@@ -18,11 +18,11 @@
     },
     {
       "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C"
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     },
     {
       "fromClass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C"
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     },
     {
       "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
