@@ -25,12 +25,20 @@
       "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
     },
     {
-      "fromClass": "/AAHelicoprion/Dinos/HelicoprionAA_Character_BP.HelicoprionAA_Character_BP_C",
+      "fromClass": "/AAHelicoprion/Dinos/HelicoprionAA_Character_BP.HelicoprionAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP"
     },
     {
       "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    }
+    {
+      "fromClass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    }
+    {
+      "fromClass": "/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Dwarfs.Drakara_Character_BP_Dwarfs",
+      "toClass": "/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Pyro.Drakara_Character_BP_Pyro"
     }
   ]
 }
